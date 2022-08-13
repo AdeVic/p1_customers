@@ -1,4 +1,27 @@
 ## Read Me
+
+
+#### Required Software
+Here, jupyter notebook is needed to run this analysis
+The following libraries should be installed on the jupyter notebook
+    * Pandas 
+    * Numpy
+    * Matplotlib
+    * Seaborn
+    
+
+#### List of files included in the project
+The following files are in this project: 
+    1. p1_customers.ipynb
+    2. p1_customers.xlsx
+
+#### Data Cleaning 
+    1. Cleanliness issues
+        * The Customer_Segment, Store_Number and Responded_to_Last_Catalog were changed from object to category
+        
+    2. Tidiness issues
+        * The state variable is not important for this analysis and was dropped 
+
 #### Catalog Demand
 * This dataset contains the record of cutomers of 10 local stores in Colorado and their average sales for a period of 8 years
 * The aim of this visualization is to find prdictor variables that may help increase the average sales of the store
@@ -25,10 +48,13 @@
     4. Loyalty Club and Credit Card   
     
   
-### Findings
+#### Summary of Findings
     1. The store mailing list has the highest number of transaction while the loyalty club and credit card has the lowest
     2. Denver has the highest number of transactions while Lone tree has the lowest number of transactions
     3. The distribution of average sale is right skewed, showing that there is posibility of outlier on the right. The average sale is between 0 to 1000
     4. The stores with the highest customers is in the following order; from highest to lowest: (100, 105, 106, 101, 104, 107, 103, 108, 109 and 102)
     5. There are few people that responds to catalog and the average sale is higher among those that did not respond to catalog
-    6. 
+
+
+#### Key Insights 
+    1. Getting more customers into the loyalty and credit card category will really increase the stores sales
