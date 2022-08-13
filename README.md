@@ -22,4 +22,13 @@
     1. Store Mailing List              
     2. Loyalty Club Only                
     3. Credit Card Only                
-    4. Loyalty Club and Credit Card    
+    4. Loyalty Club and Credit Card   
+    
+  
+### Findings
+    1. The store mailing list has the highest number of transaction while the loyalty club and credit card has the lowest
+    2. Denver has the highest number of transactions while Lone tree has the lowest number of transactions
+    3. The distribution of average sale is right skewed, showing that there is posibility of outlier on the right. The average sale is between 0 to 1000
+    4. The stores with the highest customers is in the following order; from highest to lowest: (100, 105, 106, 101, 104, 107, 103, 108, 109 and 102)
+    5. There are few people that responds to catalog and the average sale is higher among those that did not respond to catalog
+    6. 
